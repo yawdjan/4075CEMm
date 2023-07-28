@@ -1,0 +1,5 @@
+﻿  hbox.cpp
+C:\Users\yawdj\Desktop\try2\4075CEMm\animation\startgamebutton.h(4,10): fatal  error C1083: Cannot open include file: 'ftxui/dom/node.hpp': No such file or directory
+  welcomscreen.cpp
+C:\Users\yawdj\Desktop\try2\4075CEMm\animation\welcomscreen.cpp(1,10): fatal  error C1083: Cannot open include file: 'ftxui/dom/elements.hpp': No such file or directory
+  Generating Code...
